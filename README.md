@@ -43,5 +43,5 @@ This project analyzes the **Northwind dataset** using **Power BI**, showcasing i
 
 ## Contact
 Feel free to reach out for feedback or collaboration opportunities:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: (https://www.linkedin.com/in/omri-david-617b26244/)
+- Email: omridavid777@gmail.com
