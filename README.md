@@ -29,7 +29,7 @@ This project analyzes the **Northwind dataset** using **Power BI**, showcasing i
 
 ## Files Included
 - **Northwind_Analysis.pbix**: Power BI file with all dashboards.
-- **Screenshots**: Visual representations of the dashboards.
+- **Pdf file**: Visual representations of the dashboards.
 
 ## Skills Demonstrated
 - Data modeling and relationship building.
